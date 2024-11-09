@@ -13,6 +13,8 @@
     color: black;
     cursor: pointer;
     float: right;
+    margin-right: 5px;
+    margin-bottom: 5px;
   }
   
   hr {

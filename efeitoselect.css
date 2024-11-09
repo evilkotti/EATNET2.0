@@ -12,6 +12,7 @@
    height: 400px;
    width:auto; 
    padding-bottom: 50px;
+   margin-top: 20px;
    
 
    }
@@ -19,7 +20,7 @@
   
   .container1{
     background-color: black;
-   opacity: 
+   
    color: white;
    height: 400px;
    width:auto;
@@ -67,7 +68,24 @@
   background-color:rgb(8, 168, 8);
   color: black;
   cursor: pointer;
+  width: 14%;
+  height: 2%;
 }
 .menu:hover{
   background-color: yellow;
+}
+.menu2{
+  padding-top: 25px; 
+  padding-bottom: 10px; 
+  padding-left: 50px; 
+  padding-right: 50px;
+  background-color:rgb(8, 168, 8);
+
+}
+.menu2:hover{
+  background-color: yellow;
+}
+.btok{
+width: 100%;
+height: 100px;
 }
